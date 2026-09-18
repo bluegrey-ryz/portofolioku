@@ -162,8 +162,8 @@ Fresh Graduate S1 Sistem Informasi dengan ketertarikan pada Data Analysis,
                 View Work <span className="text-xl leading-none">&rarr;</span>
               </a>
               <a 
-                href="/CV-Siti Nur Kharisma Akbar.pdf" 
-                download="CV-Siti Nur Kharisma Akbar.pdf"
+                href="/CV_Siti Nur Kharisma Akbar baru.pdf" 
+                download="CV_Siti Nur Kharisma Akbar baru.pdf"
                 className="px-8 py-4 rounded-full bg-white/10 backdrop-blur-md border border-white/30 text-white font-semibold flex items-center gap-2 hover:bg-white/20 transition-colors shadow-lg cursor-pointer"
               >
                 Download CV <span className="text-xl leading-none">&darr;</span>
