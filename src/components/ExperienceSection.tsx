@@ -80,12 +80,13 @@ const EXPERIENCES: Experience[] = [
     company: 'PT Imused Satria Muda',
     type: 'Magang MBKM',
     description:
-      'Mendesain lebih dari 100 konten visual untuk media sosial, membuat lebih dari 50 ide konten marketing berdasarkan tren, serta mengelola administrasi konten, database KOL, dan laporan performa kampanye.',
+      'Mendesain lebih dari 100 konten visual untuk media sosial, membuat lebih dari 50 ide konten marketing berdasarkan tren, membuat website brand , serta mengelola administrasi konten, database KOL, dan laporan performa kampanye.',
     tags: [
       'Digital Marketing',
       'Content Design',
       'Data Management',
       'Administration',
+      'Web Development'
     ],
     accent: 'from-pink-500 to-rose-500',
   },
@@ -96,7 +97,7 @@ const EXPERIENCES: Experience[] = [
     company: 'Bolasoft ID Indonesia',
     type: 'Magang WFH',
     description:
-      'Melakukan pengujian lebih dari 20 fitur aplikasi untuk memastikan sistem berjalan sesuai kebutuhan pengguna. Menyusun dokumentasi teknis, laporan bug, dan user guide serta berkoordinasi dengan developer dalam proses validasi dan penyelesaian temuan sistem.',
+    'Melakukan pengujian lebih dari 20 fitur pada aplikasi HRIS berbasis mobile, sistem payroll Odoo, dan website Manajemen Sekolah Sepak Bola (SSB). Menyusun test case, mencatat bug dan hasil pengujian, membuat dokumentasi teknis serta user guide, dan berkoordinasi dengan developer dalam proses validasi dan tindak lanjut perbaikan sistem.',
     tags: [
       'Software Testing',
       'Test Case',
